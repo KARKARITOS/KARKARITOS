@@ -1,4 +1,4 @@
-# Hi, I'm Karim 👋
+# Hi, I'm Karim (My Nickname is Karkaritos) 👋
 
 **Penetration Tester · Bug Bounty Hunter · SOC Analyst**
 
