@@ -1,7 +1,7 @@
 # Hi, I'm Karim (My Nickname is Karkaritos) 👋
 
 
-**Penetration Tester · Bug Bounty Hunter · SOC Analyst**
+##**Penetration Tester · Bug Bounty Hunter · SOC Analyst**
 
 Cybersecurity analyst and penetration tester based in Cairo, Egypt, focused on offensive
 security, web application testing, and independent vulnerability research. Ranked **#12 in
