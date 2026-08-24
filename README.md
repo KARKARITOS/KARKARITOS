@@ -3,6 +3,7 @@
 
 **Penetration Tester · Bug Bounty Hunter · SOC Analyst**
 
+
 Cybersecurity analyst and penetration tester based in Cairo, Egypt, focused on offensive
 security, web application testing, and independent vulnerability research. Ranked **#12 in
 Egypt / #540 worldwide (top 1%)** out of 3M+ users on TryHackMe, with a **100% completion
